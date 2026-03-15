@@ -2,6 +2,9 @@
 
 An AI-powered tool that discovers companies in a target industry and generates business insights, automation ideas, and outreach strategies using Large Language Models.
 
+## 🔗 Live Demo
+https://ai-lead-generator.streamlit.app/
+
 ## App Preview
 
 ![App Demo](images/app-demo.png)
